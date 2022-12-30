@@ -1,0 +1,18 @@
+.cointainer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 24px;
+
+}
+
+a{
+    margin: 10px;
+    color: black;
+    font-size: 20px;
+}
